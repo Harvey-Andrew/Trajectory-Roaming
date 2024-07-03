@@ -1,6 +1,6 @@
 个人博客：[CSDN 博客-满分观察网友 z](https://douglas.blog.csdn.net)
 
-演示地址：[哔哩哔哩-满分观察网友 z](https://www.bilibili.com/video/BV1m8hKevEYq/?vd_source=357afc534780d3213e21f2e5fef2cffc)
+演示地址：[哔哩哔哩-满分观察网友 z](https://www.bilibili.com/video/BV1Nqh6efEYT/?spm_id_from=333.999.0.0)
 
 这是一个用 Cesium.js 做的公交车轨迹漫游，实现的功能有加载站点和道路轨迹点数据、监听车辆的实时位置、车辆控制器。滚动屏等等。
 
