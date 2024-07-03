@@ -113,8 +113,7 @@ import {
 } from "@element-plus/icons-vue";
 import Bubble from "./tool/bubbleCar";
 let viewer;
-Cesium.Ion.defaultAccessToken =
-  "your token";
+Cesium.Ion.defaultAccessToken = "your token";
 // 高德地图api
 const layer = new Cesium.UrlTemplateImageryProvider({
   url: "http://webrd02.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x={x}&y={y}&z={z}",
